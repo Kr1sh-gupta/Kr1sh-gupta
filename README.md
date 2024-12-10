@@ -93,7 +93,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
-![snake gif](https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/output/github-snake-dark.svg)
+
  <div align="center">
   <h2>🤝 Support</h2>
   <p><a href="https://www.buymeacoffee.com/kr1sh12"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kr1sh12"/></a></p>
@@ -109,3 +109,21 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 *************
+
+## Hi there 👋
+
+<!--
+**Memes08/Memes08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+![snake gif](https://github.com/Memes08/Memes08/blob/output/github-snake-dark.svg)
