@@ -23,7 +23,7 @@
   <li>👨‍💻 All of my projects are available at <a href="https://krish-gupta.co/">Krish-gupta.co</li>
   <li>📫 How to reach me 
 <a href="mailto:krishguptaddn@gmail.com">Krishguptaddn@gmail.com</a></li>
-     <li>🔭 I’m currently working on <a href="https://krish-gupta.xyz/HackWhiz">project</li>
+     <li>🔭 I’m currently working on <a href="https://krish-gupta.co">Cloud Projects</li>
 </ul>
 
 
