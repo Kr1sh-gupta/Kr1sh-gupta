@@ -110,8 +110,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 *************
 
-## Hi there 👋
-
 <!--
 **Memes08/Memes08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
