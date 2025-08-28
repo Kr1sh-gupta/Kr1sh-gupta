@@ -1,4 +1,4 @@
-<h1 align="center"> Hi , I'm Krish Gupta 👋 </h1>
+<h1 align="center"> Hi , I'm Krish 👋 </h1>
 <!--   (Toxic Haste)  -->
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/Obshy86MvfcAAAAC/yo-anime.gif">
@@ -15,8 +15,8 @@
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Pentesting-Cross site Scripting XSS
-- ✨ Cloud Computing Services
+- ✨ Pentesting 
+- ✨ Exploring Kubernetes (Cloud Services)
 
 ### - Others :
 <ul>
