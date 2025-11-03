@@ -53,7 +53,7 @@
 ### 🛡 Cybersecurity (Still Actively Practicing)
 <p>
   <img src="https://cdn4.iconfinder.com/data/icons/macaron-1/48/BurpSuite-512.png" height="45"/>
-  <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/wireshark_22388.png" height="45"/>
+  <img src="https://pbs.twimg.com/profile_images/1878803759532244992/SHNdf_ON_400x400.jpg" height="45"/>
   <img src="https://img.shields.io/badge/CTF_Player-9cf?style=for-the-badge" height="28"/>
 </p>
 
