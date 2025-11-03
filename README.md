@@ -4,7 +4,7 @@
 <h3 align="center">Backend • Cloud • DevOps • Pentesting</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kr1sh-gupta/krish-profile/refs/heads/main/banner.png?token=GHSAT0AAAAAADOCLBCXDIAP5UP5VBR3XIOM2IIYAGA" height="250"/>
+  <img src="https://raw.githubusercontent.com/Kr1sh-gupta/Kr1sh-gupta/refs/heads/main/banner.png" height="250"/>
 </p>
 
 ---
